@@ -50,7 +50,7 @@ Aanmaakdatum    : 01-02-2024
                         <a href="#pricing" class="nav__link">Bodybuilders</a>
                     </li>
                     <div class="nav__link">
-                        <a href="/login.php" class="button nav__button">Login</a>
+                        <a href="/index.php" class="button nav__button">Logout</a>
                     </div>
                 </ul>
 
