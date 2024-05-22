@@ -73,6 +73,7 @@ Aanmaakdatum    : 01-02-2024
         </nav>
     </header>
 
+<<<<<<< HEAD
     <!--==================== COOKIE PUP-UP ====================-->
     <div id="cookies">
         <div class="container2">
@@ -87,8 +88,9 @@ Aanmaakdatum    : 01-02-2024
         </div>
     </div>
 
+=======
+>>>>>>> parent of 19d50c0 (ss)
     <!--==================== MAIN ====================-->
-
     <main class="main">
         <!--==================== HOME ====================-->
         <section class="home section" id="home">
@@ -394,7 +396,6 @@ Aanmaakdatum    : 01-02-2024
             </div>
         </section>
     </main>
-
 
     <!--==================== FOOTER ====================-->
     <footer class="footer section" id="footer">
