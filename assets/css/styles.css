@@ -1137,12 +1137,12 @@ img {
     }
 }
 
-.container {
+.container2 {
     width: 1600px;
     margin: auto;
 }
 
-.subcontainer {
+.subcontainer2 {
     width: 85%;
     margin: auto;
 }
@@ -1154,7 +1154,6 @@ img {
     color: white;
     background-color: #5b5d56;
     z-index: 1;
-    display: none;
 }
 
 .cookies {

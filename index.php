@@ -24,6 +24,9 @@ Aanmaakdatum    : 01-02-2024
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="assets/css/styles.css">
 
+    <!--=============== jQuery ===============-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
     <title>OG Fitness</title>
 </head>
 
@@ -72,8 +75,8 @@ Aanmaakdatum    : 01-02-2024
 
     <!--==================== COOKIE PUP-UP ====================-->
     <div id="cookies">
-        <div class="container">
-            <div class="subcontainer">
+        <div class="container2">
+            <div class="subcontainer2">
                 <div class="cookies">
                     <p>This website uses cookies to ensure you get the best experience on our webiste.
                         <a href="">More info.</a>
@@ -513,6 +516,9 @@ Aanmaakdatum    : 01-02-2024
 
     <!--=============== MAIN JS ===============-->
     <script src="assets/js/main.js"></script>
+
+    <!--=============== Cookies JS ===============-->
+    <script src="assets/js/cookies.js"></script>
 </body>
 
 </html>
