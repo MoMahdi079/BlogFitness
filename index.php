@@ -70,7 +70,22 @@ Aanmaakdatum    : 01-02-2024
         </nav>
     </header>
 
+    <!--==================== COOKIE PUP-UP ====================-->
+    <div id="cookies">
+        <div class="container">
+            <div class="subcontainer">
+                <div class="cookies">
+                    <p>This website uses cookies to ensure you get the best experience on our webiste.
+                        <a href="">More info.</a>
+                    </p>
+                    <button id="cookies-btn">That's fine!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!--==================== MAIN ====================-->
+
     <main class="main">
         <!--==================== HOME ====================-->
         <section class="home section" id="home">
@@ -376,6 +391,7 @@ Aanmaakdatum    : 01-02-2024
             </div>
         </section>
     </main>
+
 
     <!--==================== FOOTER ====================-->
     <footer class="footer section" id="footer">
